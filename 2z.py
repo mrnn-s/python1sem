@@ -28,3 +28,13 @@ print("max number", max)
 #my_list=[4,8,2,0,9,6]
 #for i in range (len(my_list)):
 #print(my_list[i])
+
+#my_list=[]
+#for i in range(5):
+# number= int(input(f"enter {i+1} number:"))
+# my_list.append(number)
+#max=my_list[0] 
+# for item in my_list: 
+#   if item>max:
+#     max=item
+# print("max number", max)
